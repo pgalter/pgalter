@@ -1,7 +1,17 @@
+𝐷𝑦𝑛𝑎𝑚𝑖𝑐 simulation 𝑤ℎ𝑒𝑟𝑒 𝑛𝑒𝑢𝑟𝑜𝑛𝑠 follow 𝐻𝑒𝑏𝑏𝑖𝑎𝑛 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑝𝑟𝑖𝑛𝑐𝑖𝑝𝑙𝑒𝑠 (https://github.com/pgalter/algorithmicSimulations):
 <img width="1071" height="236" alt="neuronsSimulation-ezgif com-crop (1)" src="https://github.com/user-attachments/assets/f2311ddc-bb42-4b80-bbf9-3d8e6285a36f" />
 
-𝐷𝑦𝑛𝑎𝑚𝑖𝑐 3𝐷 simulation 𝑤ℎ𝑒𝑟𝑒 𝑛𝑒𝑢𝑟𝑜𝑛𝑠 𝑠𝑡𝑟𝑒𝑛𝑔𝑡ℎ𝑒𝑛 𝑐𝑜𝑛𝑛𝑒𝑐𝑡𝑖𝑜𝑛𝑠 𝑡ℎ𝑟𝑜𝑢𝑔ℎ 𝑐𝑜𝑟𝑟𝑒𝑙𝑎𝑡𝑒𝑑 𝑎𝑐𝑡𝑖𝑣𝑖𝑡𝑦, 𝑖𝑛𝑠𝑝𝑖𝑟𝑒𝑑 𝑏𝑦 𝐻𝑒𝑏𝑏𝑖𝑎𝑛 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑝𝑟𝑖𝑛𝑐𝑖𝑝𝑙𝑒𝑠.(https://github.com/pgalter/algorithmicSimulations)
+𝐴I engineer and a𝑠𝑝𝑖𝑟𝑖𝑛𝑔 𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ𝑒𝑟.
 
+F𝑜𝑐𝑢𝑠𝑒𝑑 𝑜𝑛 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑖𝑛𝑔 𝑚𝑎𝑡ℎ𝑒𝑚𝑎𝑡𝑖𝑐𝑎𝑙𝑙𝑦 𝑔𝑟𝑜𝑢𝑛𝑑𝑒𝑑 𝑑𝑒𝑒𝑝 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑠𝑦𝑠𝑡𝑒𝑚𝑠 𝑡ℎ𝑎𝑡 𝑒𝑛𝑎𝑏𝑙𝑒 𝑠𝑎𝑓𝑒 𝑎𝑛𝑑 𝑟𝑒𝑙𝑖𝑎𝑏𝑙𝑒
+𝑑𝑒𝑐𝑖𝑠𝑖𝑜𝑛-𝑚𝑎𝑘𝑖𝑛𝑔 𝑖𝑛 ℎ𝑖𝑔ℎ-𝑟𝑖𝑠𝑘 𝑑𝑜𝑚𝑎𝑖𝑛𝑠 𝑠𝑢𝑐ℎ 𝑎𝑠 ℎ𝑒𝑎𝑙𝑡ℎ𝑐𝑎𝑟𝑒.
 
-<img width="1071" height="561" alt="593685873-14ea9085-52af-4b90-acc3-44b16a8401cf" src="https://github.com/user-attachments/assets/033c03aa-6557-44dd-9e05-38bbaac1c82c" />
+𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬
+    (i) 𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝑒𝑑 𝑖𝑛 𝑐𝑜𝑚𝑏𝑖𝑛𝑖𝑛𝑔 𝑚𝑎𝑐ℎ𝑖𝑛𝑒 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑜𝑝𝑡𝑖𝑚𝑖𝑧𝑎𝑡𝑖𝑜𝑛 𝑎𝑛𝑑
+𝑝ℎ𝑦𝑠𝑖𝑐𝑠-𝑖𝑛𝑠𝑝𝑖𝑟𝑒𝑑 𝑚𝑒𝑡ℎ𝑜𝑑𝑠 𝑡𝑜 𝑏𝑢𝑖𝑙𝑑 𝑖𝑛𝑡𝑒𝑟𝑝𝑟𝑒𝑡𝑎𝑏𝑙𝑒 𝑎𝑛𝑑 𝑐𝑜𝑛𝑠𝑡𝑟𝑎𝑖𝑛𝑡-𝑎𝑤𝑎𝑟𝑒 𝑑𝑒𝑐𝑖𝑠𝑖𝑜𝑛 𝑠𝑦𝑠𝑡𝑒𝑚𝑠.
+    (ii)
+    (iii)
+
+𝐑𝐞𝐥𝐞𝐯𝐚𝐧𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+
 

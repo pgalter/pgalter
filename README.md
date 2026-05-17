@@ -1,8 +1,8 @@
 <p align="center">
 𝐷𝑦𝑛𝑎𝑚𝑖𝑐𝑠 𝑓𝑜𝑙𝑙𝑜𝑤 𝐻𝑒𝑏𝑏𝑖𝑎𝑛 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑝𝑟𝑖𝑛𝑐𝑖𝑝𝑙𝑒𝑠 (https://github.com/pgalter/algorithmicSimulations):
 </p>
-<img width="1071" height="236" alt="neuronsSimulation-ezgif com-crop (1)" src="https://github.com/user-attachments/assets/f2311ddc-bb42-4b80-bbf9-3d8e6285a36f" />
-<br><br>
+<img width="1071" height="236" alt="neuronsSimulation-ezgif com-crop (1)" src="https://github.com/user-attachments/assets/f2311ddc-bb42-4b80-bbf9-3d8e6285a36f" /> <br><br>
+
 𝐀𝐈 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐚𝐧𝐝 𝐚𝐬𝐩𝐢𝐫𝐢𝐧𝐠 𝐫𝐞𝐬𝐞𝐚𝐫𝐜𝐡𝐞𝐫 <br>
 𝐹𝑜𝑐𝑢𝑠𝑒𝑑 𝑜𝑛 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑖𝑛𝑔 𝑚𝑎𝑡ℎ𝑒𝑚𝑎𝑡𝑖𝑐𝑎𝑙𝑙𝑦 𝑔𝑟𝑜𝑢𝑛𝑑𝑒𝑑 𝑑𝑒𝑒𝑝 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑠𝑦𝑠𝑡𝑒𝑚𝑠 𝑡ℎ𝑎𝑡 𝑒𝑛𝑎𝑏𝑙𝑒 𝑠𝑎𝑓𝑒 𝑎𝑛𝑑 𝑟𝑒𝑙𝑖𝑎𝑏𝑙𝑒 𝑑𝑒𝑐𝑖𝑠𝑖𝑜𝑛-𝑚𝑎𝑘𝑖𝑛𝑔 𝑖𝑛 ℎ𝑖𝑔ℎ-𝑟𝑖𝑠𝑘 𝑑𝑜𝑚𝑎𝑖𝑛𝑠 𝑠𝑢𝑐ℎ 𝑎𝑠 ℎ𝑒𝑎𝑙𝑡ℎ𝑐𝑎𝑟𝑒. <br><br>
 

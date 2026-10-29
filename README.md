@@ -4,12 +4,12 @@
 <img width="1071" height="236" alt="neuronsSimulation-ezgif com-crop (1)" src="https://github.com/user-attachments/assets/f2311ddc-bb42-4b80-bbf9-3d8e6285a36f" /> <br><br>
 
 𝐀𝐩𝐩𝐥𝐢𝐞𝐝 𝐌𝐚𝐭𝐡𝐞𝐦𝐚𝐭𝐢𝐜𝐬 & 𝐀𝐈 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡𝐞𝐫 <br>
-Focused on developing mathematically grounded, physics-informed machine learning methods that integrate physical principles and optimization to improve model reliability, generalization, and computational efficiency, with a long-term goal of advancing climate resilience.
+Focused on developing mathematically grounded, physics-informed machine learning methods that integrate physical principles and optimization to improve model reliability, generalization, and computational efficiency, with a long-term goal of advancing climate resilience. <br><br>
 
 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬 <br>
-      (i) Physics-informed machine learning for extreme weather prediction, climate adaptation, and resilience.
-      (ii) Physics-informed graph neural networks and materials modelling, particularly for composite and sustainable materials.
-      (iii) Physics-inspired computing, combinatorial optimization, and stochastic dynamical systems for mathematically rigorous and efficient scientific modelling.
+      (i) Physics-informed machine learning for extreme weather prediction, climate adaptation, and resilience. <br>
+      (ii) Physics-informed graph neural networks and materials modelling, particularly for composite and sustainable materials. <br>
+      (iii) Physics-inspired computing, combinatorial optimization, and stochastic dynamical systems for mathematically rigorous and efficient scientific modelling. <br>
 
 𝐒𝐞𝐥𝐞𝐜𝐭𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 <br>
 • [𝐶𝑜𝑚𝑝𝑎𝑟𝑎𝑡𝑖𝑣𝑒 𝑆𝑡𝑢𝑑𝑦 𝑜𝑓 𝑆𝐻𝐴𝑃 𝑎𝑛𝑑 𝐶𝑜𝑢𝑛𝑡𝑒𝑟𝑓𝑎𝑐𝑡𝑢𝑎𝑙 𝐸𝑥𝑝𝑙𝑎𝑛𝑎𝑡𝑖𝑜𝑛𝑠 𝑓𝑜𝑟 𝐷𝑟𝑢𝑔 𝑅𝑒𝑠𝑝𝑜𝑛𝑠𝑒 𝑃𝑟𝑒𝑑𝑖𝑐𝑡𝑖𝑜𝑛 𝑖𝑛 𝐶𝑎𝑛𝑐𝑒𝑟 𝐶𝑒𝑙𝑙 𝐿𝑖𝑛𝑒𝑠](https://github.com/pgalter/P1B3-Drug-Response-Predictor-XAI) <br>
@@ -28,5 +28,5 @@ Focused on developing mathematically grounded, physics-informed machine learning
       – 𝐼𝑚𝑝𝑙𝑒𝑚𝑒𝑛𝑡𝑒𝑑 𝐴𝐶-3 𝑎𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 𝑓𝑜𝑟 𝑆𝑢𝑑𝑜𝑘𝑢 𝑠𝑜𝑙𝑣𝑖𝑛𝑔. <br>
       – 𝑈𝑠𝑒𝑑 𝑀𝑅𝑉 ℎ𝑒𝑢𝑟𝑖𝑠𝑡𝑖𝑐 𝑎𝑛𝑑 𝑠𝑖𝑛𝑔𝑙𝑒𝑡𝑜𝑛 𝑝𝑟𝑜𝑝𝑎𝑔𝑎𝑡𝑖𝑜𝑛 𝑡𝑜 𝑖𝑚𝑝𝑟𝑜𝑣𝑒 𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑐𝑦 𝑎𝑛𝑑 𝑟𝑜𝑏𝑢𝑠𝑡𝑛𝑒𝑠𝑠. <br><br>
 
-**Past Research Directions**
+**Past Research Directions** <br>
 • 𝑂𝑝𝑡𝑖𝑚𝑖𝑧𝑎𝑡𝑖𝑜𝑛 𝑜𝑓 𝑁𝑃-ℎ𝑎𝑟𝑑 𝑃𝑟𝑜𝑏𝑙𝑒𝑚𝑠 𝑢𝑠𝑖𝑛𝑔 𝑂𝑠𝑐𝑖𝑙𝑙𝑎𝑡𝑜𝑟𝑦 𝐼𝑠𝑖𝑛𝑔 𝑀𝑎𝑐ℎ𝑖𝑛𝑒𝑠, under the supervision of 𝐷𝑟. 𝑌𝑢𝑧ℎ𝑒𝑛 𝑄𝑖𝑛 𝐷𝑟. 𝑀𝑎𝑟𝑐𝑒𝑙 𝑣𝑎𝑛 𝐺𝑒𝑟𝑣𝑒𝑛<br>

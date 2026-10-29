@@ -28,5 +28,5 @@ Focused on developing mathematically grounded, physics-informed machine learning
       – 𝐼𝑚𝑝𝑙𝑒𝑚𝑒𝑛𝑡𝑒𝑑 𝐴𝐶-3 𝑎𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 𝑓𝑜𝑟 𝑆𝑢𝑑𝑜𝑘𝑢 𝑠𝑜𝑙𝑣𝑖𝑛𝑔. <br>
       – 𝑈𝑠𝑒𝑑 𝑀𝑅𝑉 ℎ𝑒𝑢𝑟𝑖𝑠𝑡𝑖𝑐 𝑎𝑛𝑑 𝑠𝑖𝑛𝑔𝑙𝑒𝑡𝑜𝑛 𝑝𝑟𝑜𝑝𝑎𝑔𝑎𝑡𝑖𝑜𝑛 𝑡𝑜 𝑖𝑚𝑝𝑟𝑜𝑣𝑒 𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑐𝑦 𝑎𝑛𝑑 𝑟𝑜𝑏𝑢𝑠𝑡𝑛𝑒𝑠𝑠. <br><br>
 
-**Past Research Directions** <br>
+**Past Research Internship at the Donders Institude** <br>
 • 𝑂𝑝𝑡𝑖𝑚𝑖𝑧𝑎𝑡𝑖𝑜𝑛 𝑜𝑓 𝑁𝑃-ℎ𝑎𝑟𝑑 𝑃𝑟𝑜𝑏𝑙𝑒𝑚𝑠 𝑢𝑠𝑖𝑛𝑔 𝑂𝑠𝑐𝑖𝑙𝑙𝑎𝑡𝑜𝑟𝑦 𝐼𝑠𝑖𝑛𝑔 𝑀𝑎𝑐ℎ𝑖𝑛𝑒𝑠, under the supervision of 𝐷𝑟. 𝑌𝑢𝑧ℎ𝑒𝑛 𝑄𝑖𝑛 𝐷𝑟. 𝑀𝑎𝑟𝑐𝑒𝑙 𝑣𝑎𝑛 𝐺𝑒𝑟𝑣𝑒𝑛<br>
